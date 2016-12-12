@@ -1,0 +1,11 @@
+D:\Otros\Conti\CicloVII\Evolucion del Software\examen\Codigo\IMC\bin\Debug\IMC.exe.config
+D:\Otros\Conti\CicloVII\Evolucion del Software\examen\Codigo\IMC\bin\Debug\IMC.exe
+D:\Otros\Conti\CicloVII\Evolucion del Software\examen\Codigo\IMC\bin\Debug\IMC.pdb
+D:\Otros\Conti\CicloVII\Evolucion del Software\examen\Codigo\IMC\bin\Debug\IMC.xml
+D:\Otros\Conti\CicloVII\Evolucion del Software\examen\Codigo\IMC\obj\Debug\IMC.vbprojResolveAssemblyReference.cache
+D:\Otros\Conti\CicloVII\Evolucion del Software\examen\Codigo\IMC\obj\Debug\IMC.Form1.resources
+D:\Otros\Conti\CicloVII\Evolucion del Software\examen\Codigo\IMC\obj\Debug\IMC.Resources.resources
+D:\Otros\Conti\CicloVII\Evolucion del Software\examen\Codigo\IMC\obj\Debug\IMC.vbproj.GenerateResource.Cache
+D:\Otros\Conti\CicloVII\Evolucion del Software\examen\Codigo\IMC\obj\Debug\IMC.exe
+D:\Otros\Conti\CicloVII\Evolucion del Software\examen\Codigo\IMC\obj\Debug\IMC.xml
+D:\Otros\Conti\CicloVII\Evolucion del Software\examen\Codigo\IMC\obj\Debug\IMC.pdb
